@@ -2,5 +2,5 @@
 
 namespace Questao5.Application.Commands
 {
-    public record RegistrarMovimentacaoCommand(string? IdRequisicao, string IdContaCorrente, decimal Valor, char Tipo) : IRequest<string>;
+    public record RegistrarMovimentacaoCommand(string IdRequisicao, string IdContaCorrente, decimal Valor, char Tipo) : IRequest<string>;
 }

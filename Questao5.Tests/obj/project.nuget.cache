@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OnbCVAvgcdk=",
+  "dgSpecHash": "t2RSJyWT+/I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\Questao5.Tests.csproj",
+  "projectFilePath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\Questao5.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaderson.rodrigues\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\jaderson.rodrigues\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

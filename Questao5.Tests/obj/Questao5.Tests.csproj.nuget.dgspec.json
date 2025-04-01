@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\Questao5.Tests.csproj": {}
+    "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\Questao5.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\Questao5.Tests.csproj": {
+    "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\Questao5.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\Questao5.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\Questao5.Tests.csproj",
         "projectName": "Questao5.Tests",
-        "projectPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\Questao5.Tests.csproj",
+        "projectPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\Questao5.Tests.csproj",
         "packagesPath": "C:\\Users\\jaderson.rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5.Tests\\obj\\",
+        "outputPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\Questao5.csproj": {
-                "projectPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\Questao5.csproj"
+              "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Questao5.csproj": {
+                "projectPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Questao5.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\Questao5.csproj": {
+    "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Questao5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\Questao5.csproj",
+        "projectUniqueName": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Questao5.csproj",
         "projectName": "Questao5",
-        "projectPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\Questao5.csproj",
+        "projectPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Questao5.csproj",
         "packagesPath": "C:\\Users\\jaderson.rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\Questao5\\obj\\",
+        "outputPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaderson.rodrigues\\Downloads\\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2) 1 (1)\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\jaderson.rodrigues\\documents\\github\\testenivelamento\\questao5\\infrastructure\\services\\controllers\\movimentacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\movimentacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "ToolTip": "C:\\Users\\jaderson.rodrigues\\Documents\\GitHub\\TesteNivelamento\\Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\MovimentacaoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:06:53.668Z",
+              "EditorCaption": ""
             }
           ]
         }
